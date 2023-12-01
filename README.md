@@ -7,8 +7,8 @@
 
 ## A bank account web-app where you can send and receive money between accounts and request loans
 Accounts:   
-user1: rs pin: 1111     
-user2: nu pin: 2222   
+Account1: user: rs pin: 1111     
+Account2: user: nu pin: 2222   
 <br><br>
 
 <!-- Prototyping -->
